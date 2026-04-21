@@ -7,9 +7,12 @@ Ik ben een enthousiaste student met een passie voor technologie en probleemoplos
 
 ### 🔍 Mijn huidige focus
 Dit semester ligt mijn focus op het bouwen van een sterke basis:
-
 * 🐍 **Python**: Bezig met het masteren van de basics.
-* 🐧 **Linux**: De kracht van de terminal aan het ontdekken.
+* ⚡ **JavaScript**: Dynamische functionaliteit toevoegen aan het web.
+* 🌐 **HTML & CSS**: Het bouwen van moderne, responsive web-interfaces.
 * 📂 **Git**: Mijn workflow aan het optimaliseren.
+* 💼 **Business & IT**: De brug slaan tussen technologie en bedrijfsprocessen (UML & BPMN).
 
+### ✅ Reeds afgerond
+* 🐧 **Linux**: Systeembeheer en command-line fundamentals.
 ---
